@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/albumStore/static/css/main.8bdfcf13.css",
+    "main.js": "/albumStore/static/js/main.32a380c6.js",
+    "static/js/787.a74095cd.chunk.js": "/albumStore/static/js/787.a74095cd.chunk.js",
+    "static/media/banner.png": "/albumStore/static/media/banner.2c9c539f0e4d591b13dc.png",
+    "index.html": "/albumStore/index.html",
+    "main.8bdfcf13.css.map": "/albumStore/static/css/main.8bdfcf13.css.map",
+    "main.32a380c6.js.map": "/albumStore/static/js/main.32a380c6.js.map",
+    "787.a74095cd.chunk.js.map": "/albumStore/static/js/787.a74095cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdfcf13.css",
+    "static/js/main.32a380c6.js"
+  ]
+}
